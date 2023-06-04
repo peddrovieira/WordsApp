@@ -8,7 +8,7 @@ O projeto foi desenvolvido a partir da sala de aula, com fins educacionais.
 Desenvolvido usando Kotlin no Android Studio.
 <h2>Telas - Demonstração</h2>
 <div align="center" display="flex" justify-content="center">
-  <img src="imgReadme/Telainicial.png" width="450px">
+  <img src="imgReadme/Telainicial.png">
   <img src="imgReadme/LetraA.png" align="right" width="400px">
 </div>
 <h2>Criador</h2>
