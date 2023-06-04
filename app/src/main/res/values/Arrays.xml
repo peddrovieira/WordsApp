@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>All Time Low</item>
+        <item>Ataris</item>
+        <item>Blink-182</item>
+        <item>Bowling for Soup</item>
+        <item>Chunk! No, Captain Chunk!</item>
+        <item>Copyrights</item>
+        <item>Descendents</item>
+        <item>Donnas</item>
+        <item>Ergs!</item>
+        <item>Ever We Fall</item>
+        <item>Fall Out Boy</item>
+        <item>Four Year Strong</item>
+        <item>Good Charlotte</item>
+        <item>Green Day</item>
+        <item>Hives</item>
+        <item>Hit the Lights</item>
+        <item>Interrupters</item>
+        <item>Impossibles</item>
+        <item>Jimmy Eat World</item>
+        <item>Joyce Manor</item>
+        <item>Knuckle Puck</item>
+        <item>Killers</item>
+        <item>Lawrence Arms</item>
+        <item>Less Than Jake</item>
+        <item>Mayday Parade</item>
+        <item>Motion City Soundtrack</item>
+        <item>Neck Deep</item>
+        <item>New Found Glory</item>
+        <item>Offspring</item>
+        <item>Operation Ivy</item>
+        <item>Panic! at the Disco</item>
+        <item>Paramore</item>
+        <item>Quietdrive</item>
+        <item>Quicksand</item>
+        <item>Relient K</item>
+        <item>Ramones</item>
+        <item>Simple Plan</item>
+        <item>Sum 41</item>
+        <item>Taking Back Sunday</item>
+        <item>The Starting Line</item>
+        <item>The Used</item>
+        <item>Unwritten Law</item>
+        <item>Vandals</item>
+        <item>Valencia</item>
+        <item>We the Kings</item>
+        <item>Weezer</item>
+        <item>X</item>
+        <item>X-AMBASSADORS</item>
+        <item>Yellowcard</item>
+        <item>You Me At Six</item>
+        <item>Zebrahead</item>
+        <item>ZSK</item>
+    </string-array>
+</resources>
